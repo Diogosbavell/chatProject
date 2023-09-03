@@ -6,7 +6,7 @@
 ![This is an image](readme_images/Ts.png)
 ![This is an image](readme_images/React.png)
 ![This is an image](readme_images/NodeJs.png)
-![This is an image](readme_images/StyleComponents.png)
+![This is an image](readme_images/styleComponents.png)
 
 ## Language:
 
