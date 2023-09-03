@@ -29,7 +29,7 @@ Project developed to meet the criteria established for completion of the course 
 
 The final product is in the fullStack/chat folder. The npm install command must be used in the dist folder in order to gather the necessary dependencies for the application to work.
 
-##Author:
+## Author:
 
 Diogo Borges.
 
